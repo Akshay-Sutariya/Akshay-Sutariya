@@ -20,6 +20,10 @@ More coming soon... 👨‍🔬
 
 ---
 
+![tryhackme stats](https://raw.githubusercontent.com/mrAkki/mrAkki/master/assets/thm_propic.png)
+
+---
+
 ### 📫 Let's Connect
 - [LinkedIn] :- https://www.linkedin.com/in/akshay-sutariya2404/
 
