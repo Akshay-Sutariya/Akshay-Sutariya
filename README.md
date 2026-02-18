@@ -20,7 +20,7 @@ More coming soon... 👨‍🔬
 
 ---
 
-![tryhackme stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3215973)
+![tryhackme stats](https://raw.githubusercontent.com/mrAkki/mrAkki/master/assets/thm_propic.png)
 
 ---
 
