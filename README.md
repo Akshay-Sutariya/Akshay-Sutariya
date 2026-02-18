@@ -20,7 +20,10 @@ More coming soon... 👨‍🔬
 
 ---
 
-![tryhackme stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3215973)
+### 🧠 TryHackMe Profile
+
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3215973)
+
 
 ---
 
