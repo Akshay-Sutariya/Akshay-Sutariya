@@ -1,13 +1,11 @@
 ### 👋 Hi there, I'm Akshay – Welcome to My Cybersecurity Space
 
 🔐 I'm currently pursuing my MSc in Cybersecurity & Digital Forensics.  
-👨‍💻 I’m passionate about **automating security workflows** using Python and Linux.  
+👨‍💻 I mainly work with Linux and Python, learning through hands-on labs, CTFs, and small security projects.
 🧠 Currently diving into:
-- Log analysis & security scripting
-- SOC alert automation
-- Building cybersecurity tools from scratch
-
-💡 I enjoy solving real-world problems through automation and simplifying repetitive tasks in security operations.
+- SOC fundamentals: log analysis, alerting, basic incident handling  
+- Pentesting basics: reconnaissance, scanning, common vulnerabilities  
+- CTF practice (Linux, forensics, web) on TryHackMe  
 
 ---
 
@@ -25,7 +23,6 @@ More coming soon... 👨‍🔬
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mrAkki.png)](https://tryhackme.com/p/mrAkki)
 
 
-
 ---
 
 ### 📫 Let's Connect
@@ -33,4 +30,4 @@ More coming soon... 👨‍🔬
 
 ---
 
-> 🛠️ "Automating security is where blue team meets creativity."
+> 💡 Goal: build solid blue-team foundations while developing practical offensive skills through labs and real projects.
