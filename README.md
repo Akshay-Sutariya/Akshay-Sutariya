@@ -22,7 +22,7 @@ More coming soon... 👨‍🔬
 
 ### 🧠 TryHackMe Profile
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/p/mrAkki)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mrAkki.png)
 
 
 ---
