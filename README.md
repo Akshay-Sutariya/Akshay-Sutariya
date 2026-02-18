@@ -20,7 +20,7 @@ More coming soon... 👨‍🔬
 
 ---
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3215973" style='border:none;'></iframe>
+![tryhackme stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3215973)
 
 ---
 
